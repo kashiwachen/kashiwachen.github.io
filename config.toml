@@ -1,0 +1,33 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Welcome to my blog"
+author = "Oscar"
+description = "This is my first blog for recording my normal life as a programer and some tech stuff I work on or learn"
+profilePicture = "images/me.jpg"
+theme =  "anatole"
+copyright = "2021-2022"
+
+[params]
+displayMode = "dark"
+disableThemeSwitcher = true # Theme switcher is enabled by default
+doNotLoadAnimations = true
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
