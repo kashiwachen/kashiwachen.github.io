@@ -1,22 +1,26 @@
 # Company List
 
-## Target
+### Data Engineer
 
-1. Google
-2. Amazon
-3. Scipy
-4. DeNA
-5. FLYWHEEL(不熟悉，日本公司)
-6. Bizreach
-7. Rakuten
-8. IBM(Research center, Waston)
+- [x] Google
+- [x] Amazon
+- [ ] Scipy
+- [x] SmartNews
+- [x] Agoda
+- [ ] Bizreach
+- [x] Line
+- [x] Rakuten
+- [ ] IBM(Research center, Waston)
+- [ ] FLYWHEEL(不熟悉，日本公司)
 
-## Position:
+### Software Engineer
 
-- Software engineer
-
-  
-
-- Data scientist
-
-  
+- [ ] Google
+- [ ] Amazon
+- [ ] Scipy
+- [ ] SmartNews
+- [ ] Agoda
+- [ ] Bizreach
+- [ ] Line
+- [ ] Rakuten
+- [ ] IBM(Research center, Waston)
