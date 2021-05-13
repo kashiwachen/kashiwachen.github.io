@@ -1,6 +1,6 @@
 Usually, a simple commit includes 2 parts:
 
-{Type}: {Body}
+`{Type}: {Body}`
 
 Type: 
 - feat: Add new features

@@ -183,5 +183,6 @@ LINEまたはLINE関連サービスを通じて生成されるデータの収集
   - Data process(ETL)
     - preprocess monitoring
     - 
-- 
+  
+  
 
