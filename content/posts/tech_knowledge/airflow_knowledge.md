@@ -16,7 +16,7 @@
 Data Partitioning: Pipeline data partitioning is the process of isolating data to be analyzed by one or more attributes, such as time, logical type, or data size. And it often leads to faster and more reliable pipelines.
 
 Data Lineage: The data lineage of a dataset describes the discrete steps involved in the creation, movement, and calculation of that dataset. Describing and servicing data lineage is one of the key ways we can ensure that everyone in the organization *has access to and understands where data originates and how it is calculated*.
-
+![airflow architect overview](https://airflow.apache.org/docs/apache-airflow/stable/_images/arch-diag-basic.png)
 ## Big company examples
 
 ### Twitter
