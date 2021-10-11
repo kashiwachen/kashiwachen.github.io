@@ -138,8 +138,6 @@ LINEまたはLINE関連サービスを通じて生成されるデータの収集
 - [ ] Develope tools: IntelliJ, Git enterprise, Airflow, Tableau
 - [ ] エコシステム: Hive, Presto, Spark,Kuberenetes
 
-### Qualification
-
 ### Preferred Qualifications
 
 - [ ] Kafak, FlinkなどのStreaming関連システムの理解
@@ -175,6 +173,25 @@ LINEまたはLINE関連サービスを通じて生成されるデータの収集
 - [ ] Hands-on experience on jenkins.
 - [ ] Hands-on experience on configuration management tool.
 - [x] Hands-on experience on git.
+
+## Headspace: Senior Data Engineer
+
+### Duty
+
+- Work in and **develop a data lake** with events for 60 million app installations, and 2 million subscribers.
+- Design and deliver **high-scale ETL pipelines** processing over 250 million daily events.
+- Work in setting up a world class *data platform* to enable highly personalized experiences for our members, while getting data to stakeholders, when, where and how it is most useful to them.
+- Setup monitoring and testing for **data credibility and accuracy**, instilling trust from stakeholders.
+
+### Qualification
+
+- 8+ years of relevant engineering work experience.
+- Worked in Databricks or similar technologies in **processing and managing data.**
+- Worked and delivered self service tools (such as Tableau) to **explore data**.
+- Veteran of software delivery. You are a pro at **architecture, testing, monitoring, alerting** and are excited to apply these principles to your team.
+- Ability to **thrive in a startup (fast-paced, agile) environment**
+- Strong communication skills and the ability to be self-directed when necessary
+- Actively coached and mentored team members in their career
 
 ## Summary
 

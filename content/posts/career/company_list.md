@@ -12,6 +12,7 @@
 - [x] Rakuten
 - [ ] IBM(Research center, Waston)
 - [ ] FLYWHEEL(不熟悉，日本公司)
+- [ ] Headspace
 
 ### Software Engineer
 
