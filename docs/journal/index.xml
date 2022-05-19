@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journals on Welcome to my blog</title>
+    <link>https://kashiwachen.github.io/journal/</link>
+    <description>Recent content in Journals on Welcome to my blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2021-2022</copyright><atom:link href="https://kashiwachen.github.io/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://kashiwachen.github.io/journal/2020-01-14-journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kashiwachen.github.io/journal/2020-01-14-journal/</guid>
+      <description>2020/1/14 木曜日  嘗試用hugo去製作部落格，仍在適應中 把修真聊天群漫畫給看完了lol。只能表示自己的確住在火星上  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kashiwachen.github.io/journal/2020-01-15-journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kashiwachen.github.io/journal/2020-01-15-journal/</guid>
+      <description>2020/1/15 金曜日   Searching on ideas around API business: 1) more functions; 2) how to be attractive
+  Find out Django database/table backup commands
+  Finish user API doc
+  Dressing: dark grey + lake green
+  feel sorry for myself since new year
+  This is a side project idea: HOW to combine markdown with bullet journal
+ Markdown can fulfill the basic note function for bullet journal but how to make the interface more attractive and easy understandable How to make bullet journal a GTD tool, with a small timer Adding a function to select emoji may help to make the journal more fun    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kashiwachen.github.io/journal/2020-01-26-journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kashiwachen.github.io/journal/2020-01-26-journal/</guid>
+      <description>H3 geocoding system   H3 merit
+ document radius query (Uber expert) fast speed (2.6ms per iteration) enough functions for geospatial analysis Hexagon shape    more reference
+ complete system need to try H3(input, output) with one day data. And also check with geojson method reference 1 reference 2    basic research on trajectory prediciton
+ 1 paper about aircraft prediction with basic also.    working on radiation attenuation metric script</description>
+    </item>
+    
+  </channel>
+</rss>

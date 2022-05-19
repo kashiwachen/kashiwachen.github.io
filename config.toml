@@ -6,6 +6,8 @@ description = "This is my first blog for recording my normal life as a programer
 profilePicture = "images/me.jpg"
 theme =  "anatole"
 copyright = "2021-2022"
+publishDir = "docs"
+
 
 [params]
 displayMode = "dark"
